@@ -1,5 +1,5 @@
 # Тестовое задание
-Выполненное тестовое задание на должность Intern Programmer (Game Logic) для компании "Lesta Games"/
+Выполненное тестовое задание на должность Intern Programmer (Game Logic) для компании "Lesta Games"
 
 Выполнил Першин Сергей
 
